@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Tech Partner Logo Carousel feature.
+ */
+
+include_once 'tech_partner_logo_carousel.features.inc';
