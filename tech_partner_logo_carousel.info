@@ -17,3 +17,4 @@ features[node][] = technology_partner_logo
 features[views_view][] = tech_partner_logos
 features_exclude[dependencies][ctools] = ctools
 features_exclude[dependencies][image] = image
+stylesheets[all][] = css/logoCarousel.css
